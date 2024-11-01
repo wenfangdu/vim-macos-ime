@@ -17,7 +17,7 @@ Switch input source automatically in vim for macos, modified from
 ## Install
 ### Install `macism`
 ```
-brew tap laishulu/macism
+brew tap laishulu/macism https://github.com/laishulu/macism
 brew install macism
 ```
 ### Install `vim-macos-ime`
